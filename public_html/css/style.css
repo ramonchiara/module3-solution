@@ -27,6 +27,9 @@ section p {
     padding: 0 1em 1em;
 }
 
-.navbar-toggle {
-    color: #D59899;
+#collapsable-nav ul {
+    background-color: #D6C3C3;
+}
+#collapsable-nav a:hover {
+    background-color: #D59899;
 }
