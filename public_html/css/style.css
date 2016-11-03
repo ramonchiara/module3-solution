@@ -1,0 +1,32 @@
+.chicken h3 {
+    background-color: #D59899;
+}
+.chicken {
+    background-color: #D6C3C3;
+    color: black;
+}
+
+.beef h3 {
+    background-color: #C14446;
+    color: white;
+}
+.beef {
+    background-color: #C29192;
+    color: white;
+}
+
+.sushi h3 {
+    background-color: #E5D19F;
+}
+.sushi {
+    background-color: #E5DECC;
+    color: black;
+}
+
+section p {
+    padding: 0 1em 1em;
+}
+
+.navbar-toggle {
+    color: #D59899;
+}
